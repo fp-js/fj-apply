@@ -1,6 +1,6 @@
 {
   "name": "fj-apply",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "`apply` in functional style!",
   "main": "index.js",
   "scripts": {
