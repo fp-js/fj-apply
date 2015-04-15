@@ -1,0 +1,9 @@
+'use strict';
+
+var _curry2 = require('fj-curry');
+
+var _apply = function _apply(fn, args) {
+  return fn.apply(undefined, args);
+};
+module.exports = _curry2.curry2(_apply);
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImluZGV4LmVzNiJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOztzQkFBcUIsVUFBVTs7QUFFL0IsSUFBSSxNQUFNLEdBQUcsZ0JBQUMsRUFBRSxFQUFFLElBQUksRUFBSztBQUN6QixTQUFPLEVBQUUsQ0FBQyxLQUFLLFlBQU8sSUFBSSxDQUFDLENBQUM7Q0FDN0IsQ0FBQTtBQUNELE1BQU0sQ0FBQyxPQUFPLEdBQUcsUUFMVCxNQUFNLENBS1UsTUFBTSxDQUFDLENBQUMiLCJmaWxlIjoiaW5kZXguanMiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQge2N1cnJ5Mn0gZnJvbSAnZmotY3VycnknO1xuXG52YXIgX2FwcGx5ID0gKGZuLCBhcmdzKSA9PiB7XG4gIHJldHVybiBmbi5hcHBseSh0aGlzLCBhcmdzKTtcbn1cbm1vZHVsZS5leHBvcnRzID0gY3VycnkyKF9hcHBseSk7XG4iXSwic291cmNlUm9vdCI6Ii9zb3VyY2UvIn0=
